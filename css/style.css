@@ -20,5 +20,12 @@ header {
 main {
     grid-column: 2 / span 3;
     grid-row: 2 / span 2;
-    border: 5px solid black;
+    border: 2px solid black;
+}
+
+#Words {
+    grid-column: 2 / span 3;
+    grid-row: 2 / span 2;
+    font-size: xx-large;
+    color: rgb(168, 168, 168);
 }
