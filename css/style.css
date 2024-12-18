@@ -29,3 +29,10 @@ main {
     font-size: xx-large;
     color: rgb(168, 168, 168);
 }
+
+#results {
+    grid-column: 2 / span 3;
+    grid-row: 2 / span 2;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+}
